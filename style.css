@@ -1,0 +1,55 @@
+.margin-bottom{
+    margin-bottom: 6%;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+    background-color: powderblue;
+    border-radius: 5px;
+}
+
+.buy-now-button{
+    
+    background-image: linear-gradient(to bottom, rgb(81, 80, 81) 0%, rgb(0, 0, 0) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.see-all{
+    color: orange;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+
+}
+
+.categori-elements{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+
+#bag{
+    border-radius: 5px 10px 5px 20px;
+}
+
+#beauty{
+    border-radius: 10px 5px 20px 5px;
+}
+
+#shoe{
+    border-radius: 10px 5px 20px 5px;
+}
